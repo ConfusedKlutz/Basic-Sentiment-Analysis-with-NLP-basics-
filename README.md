@@ -7,16 +7,3 @@ This project demonstrates a basic sentiment analysis pipeline using a Logistic R
 3. **Evaluation**: Calculating and displaying the accuracy of the model's predictions.
 4. **Visualization**: Plotting the distribution of sentiment labels in the training dataset.
 
-## Installation
-
-To run this project, you'll need Python and the following libraries:
-
-- `numpy`
-- `pandas`
-- `scikit-learn`
-- `matplotlib`
-
-You can install these libraries using pip:
-
-```bash
-pip install numpy pandas scikit-learn matplotlib
